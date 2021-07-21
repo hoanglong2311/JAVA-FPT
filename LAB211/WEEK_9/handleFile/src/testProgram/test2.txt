@@ -1,0 +1,1 @@
+Here's a simple test – reading an existing file, appending some text, and then making sure that got appended correctly:
